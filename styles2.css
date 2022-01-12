@@ -1,0 +1,17 @@
+
+body {
+    background-color: aqua;
+}
+H1 {
+    color: blue;
+    margin-top: 50;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 800;
+}
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 2pt solid dimgray;
+}
